@@ -1,3 +1,7 @@
 print("Hello world")
 print ("This is my first update")
+<<<<<<< HEAD
 print ("This is my second update from linux")
+=======
+print(This is my fourth update")
+>>>>>>> 733f3233e2395be834d32ebde45ea9fc2a732395
